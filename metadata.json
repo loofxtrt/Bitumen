@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "kde-artists@kde.org",
+                "Name": "KDE Visual Design Group"
+            },
+            {
+                "Name": "Loo"
+            }
+        ],
+        "Category": "",
+        "Description": "A variation of Breeze by KDE",
+        "EnabledByDefault": true,
+        "Id": "default",
+        "License": "LGPL",
+        "Name": "Bitumen",
+        "Version": "6.14.0"
+    },
+    "X-Plasma-API": "5.0"
+}
